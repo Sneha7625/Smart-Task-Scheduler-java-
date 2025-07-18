@@ -72,3 +72,4 @@ Elevate Labs | 2025
 The Smart Task Scheduler is a complete productivity tool built using core Java and JavaFX. It combines UI/UX design with algorithmic task management and serves as a great beginner-to-intermediate level desktop software project.
 ---
 
+Folder named intern- Contains screenshots of how the app looks when launched with intelliJ IDEA
