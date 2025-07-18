@@ -28,29 +28,47 @@ A JavaFX-based desktop application that helps you organize your daily tasks with
 - **IDE:** IntelliJ IDEA / Eclipse
 
 ---
-📁 Project Structure
+📁 Project Structure:
+
 smart-task-scheduler/
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── Main.java
+
 │   │   └── ...
+
 │   ├── model/
+
 │   │   └── Task.java
+
 │   ├── utils/
+
 │   │   └── ReminderService.java
+
 │   └── controller/
+
 │       └── MainController.java
+
 ├── resources/
+
 │   └── task-icon.png
+
 ├── tasks.json
+
 └── README.md
+
 ---
-👩‍💻 Author
+👩‍💻 Author:
+
 Sneha Agarwal
 Java Developer Intern
 Elevate Labs | 2025
 ---
-🏁 Conclusion
+🏁 Conclusion:
+
 The Smart Task Scheduler is a complete productivity tool built using core Java and JavaFX. It combines UI/UX design with algorithmic task management and serves as a great beginner-to-intermediate level desktop software project.
 ---
 
