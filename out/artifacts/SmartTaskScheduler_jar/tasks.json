@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Meeting",
+    "priority": 2,
+    "deadline": "2025-07-18",
+    "time": "21:00",
+    "notes": "Meeting at 9 pm on core java essentials",
+    "done": false
+  }
+]
